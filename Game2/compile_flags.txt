@@ -1,0 +1,6 @@
+-I/usr/local/include
+-I/usr/include
+-std=c++17
+-Wall
+-Wno-missing-braces
+-D_DEFAULT_SOURCE
